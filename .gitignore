@@ -10,3 +10,7 @@ pom.xml.asc
 .lein-plugins/
 .lein-failures
 /resources/public/
+# Editor temp files
+*~
+\#*\#
+.\#*
