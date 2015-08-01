@@ -1,11 +1,11 @@
-{:site-title         "My Awesome Blog"
- :author             "Bob Bobbert"
- :description        "This blog is awesome"
- :site-url           "http://blogawesome.com/"
+{:site-title         "Pensées de Michel"
+ :author             "Michel Alexandre Salim"
+ :description        "Michel's thoughts on software development, open source, and the meaning of life"
+ :site-url           "https://michel-slm.github.io/"
  :post-root          "posts"
  :tag-root           "tags"
  :page-root          "pages"
- :blog-prefix        "/blog"
+ :blog-prefix        ""
  :rss-name           "feed.xml"
  :rss-filters        ["cryogen"]
  :recent-posts       3
