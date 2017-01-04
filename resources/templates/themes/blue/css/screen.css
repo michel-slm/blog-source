@@ -70,6 +70,11 @@ body {
     box-shadow: 0 0 0 0,0 6px 12px rgba(34,34,34,0.1);
 }
 
+#content img {
+    max-width: 100%;
+    height: auto;
+}
+
 footer {
     font-size: 14px;
     text-align: center;
@@ -128,9 +133,6 @@ pre, code, .hljs {
     .navbar-nav>li>a {
         padding: 30px 20px;
     }
-}
-
-@media (min-width: 400px) {
     .navbar-default .navbar-brand {
         font-size: 36px;
         padding: 25px 15px;
@@ -141,8 +143,7 @@ pre, code, .hljs {
     }
 }
 
-
-@media (max-width: 399px) {
+@media (max-width: 767px) {
     body{
         font-size: 14px;
     }
