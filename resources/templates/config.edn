@@ -14,7 +14,7 @@
  :sass-dest          nil
  :theme              "blue"
  :resources          ["img"]
- :keep-files         [".git"]
+ :keep-files         [".git", ".gitignore", "CNAME"]
  :disqus?            false
  :disqus-shortname   ""
  :ignored-files      [#"\.#.*" #".*\.swp$"]
